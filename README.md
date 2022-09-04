@@ -1,1 +1,1 @@
-# LaTeX_LS2022
+# LaTeX-LS-2022
